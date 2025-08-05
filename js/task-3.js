@@ -1,4 +1,3 @@
-'use strict';
 
 // Task 3: Function to calculate element width including padding and border
 function getElementWidth(content, padding, border) {

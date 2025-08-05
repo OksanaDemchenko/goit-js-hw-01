@@ -1,4 +1,3 @@
-'use strict';
 
 // Task 2: Function to calculate shipping message
 function getShippingMessage(country, price, deliveryFee) {
